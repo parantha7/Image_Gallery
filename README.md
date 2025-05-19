@@ -1,4 +1,6 @@
 # Ex.08 Design of Interactive Image Gallery
+# Name  : PARANTHAMAN S 
+# Reg No: 212224040232
 ## DATE: 19-05-2025
 ## AIM
   To design a web application for an inteactive image gallery with minimum five images.
